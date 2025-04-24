@@ -41,27 +41,10 @@ I’m currently deepening my skills in component-based architecture, design syst
 ### 📬 Get in Touch
 
 - **Email**: dsong90@gmail.com  
-- **Instagram**: [@davidcodes](https://instagram.com/davidcodes)
+- **Instagram**: @davidminq (https://instagram.com/davidminq)
 
 ---
 
-> “Design isn’t how it looks — it’s how it works, why it works, and how it makes people feel.”
-
-### 🚧 Current Projects
-
-- [`concrete`](https://github.com/davidminq/concrete) — 🎯 my personal portfolio site, designed to scale  
-- [`gresnlab`](https://github.com/davidminq/gresnlab) — 🪵 design + front-end dev for an interior design brand  
-- ✨ Prototyping music-inspired UI and motion-driven components  
-- ⚙️ Studying scalable front-end architecture with React
-
----
-
-### 📬 Get In Touch
-
-- 📧 **Email**: dsong90@gmail.com  
-- 📸 **Instagram**: [@davidcodes](https://instagram.com/davidcodes)
-
----
 
 > 🧩 “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
 
