@@ -1,4 +1,4 @@
-<h1 align="center">🎨 David Song</h1>
+<h1 align="center">🧑🏻‍💻@davidminq</h1>
 <p align="center"><i>• Front-End Developer • Digital Designer</i></p>
 
 <div align="center">
@@ -32,7 +32,7 @@ Currently building ✍️, exploring 💡, and leveling up 🧱.
 ### 🚧 Current Projects
 
 - [`concrete`](https://github.com/davidminq/concrete) — 🎯 my personal portfolio site, designed to scale  
-- [`GRESN LAB`](https://github.com/davidminq/gresnlab) — 🪵 design + front-end dev for an interior design brand  
+- [`gresnlab`](https://github.com/davidminq/gresnlab) — 🪵 design + front-end dev for an interior design brand  
 - ✨ Prototyping music-inspired UI and motion-driven components  
 - ⚙️ Studying scalable front-end architecture with React
 
