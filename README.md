@@ -33,7 +33,7 @@ I’m currently deepening my skills in component-based architecture, design syst
 ### 🚧 Current Projects
 
 - [`concrete`](https://github.com/davidminq/concrete) — A portfolio project focused on scalable UI and design systems  
-- [`GRESN LAB`](https://github.com/davidminq/gresnlab) — Front-end development for an interior design studio with a strong creative direction  
+- [`gresnlab`](https://github.com/davidminq/gresnlab) — Front-end development for an interior design studio with a strong creative direction  
 - Prototyping sound-responsive UI and motion-based web components
 
 ---
