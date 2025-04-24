@@ -1,5 +1,5 @@
 <h1 align="center">🧑🏻‍💻@davidminq</h1>
-<p align="center"><i>• Front-End Developer • Digital Designer</i></p>
+<p align="center"><i>Front-End Developer • Digital Designer</i></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
@@ -12,22 +12,40 @@
 
 ### 🧠 About Me
 
-Hey, I'm **David**, a developer and designer obsessed with the intersection of code, aesthetics, and human experience.  
-I care deeply about meaningful interactions, clean visuals, and making the web feel more... alive.
+I’m **David Song**, a front-end developer with a background in visual design.  
+I specialize in creating digital experiences that feel intuitive, responsive, and visually aligned with brand goals.
 
-Currently building ✍️, exploring 💡, and leveling up 🧱.
+My strength lies in bridging design and development — turning Figma files into accessible, scalable code.  
+I’m currently deepening my skills in component-based architecture, design systems, and interactive UI patterns.
 
 ---
 
 ### 🛠️ Core Skills
 
-- **Languages**: HTML, CSS, JavaScript  
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)  
 - **Frameworks**: React *(in progress)*  
 - **Design Tools**: Figma, Illustrator, Photoshop  
 - **Dev Tools**: VS Code, Git, GitHub, Xcode  
-- **Exploring**: Swift, Node.js, SQL, Python
+- **Currently exploring**: Swift, Node.js, SQL, Python
 
 ---
+
+### 🚧 Current Projects
+
+- [`concrete`](https://github.com/davidminq/concrete) — A portfolio project focused on scalable UI and design systems  
+- [`GRESN LAB`](https://github.com/davidminq/gresnlab) — Front-end development for an interior design studio with a strong creative direction  
+- Prototyping sound-responsive UI and motion-based web components
+
+---
+
+### 📬 Get in Touch
+
+- **Email**: dsong90@gmail.com  
+- **Instagram**: [@davidcodes](https://instagram.com/davidcodes)
+
+---
+
+> “Design isn’t how it looks — it’s how it works, why it works, and how it makes people feel.”
 
 ### 🚧 Current Projects
 
