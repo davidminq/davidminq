@@ -1,41 +1,52 @@
-<h1 align="center">David Song</h1>
-<p align="center"><i>Creative Technologist • Front-End Developer • Design Systems Enthusiast</i></p>
+<h1 align="center">🎨 David Song</h1>
+<p align="center"><i>• Front-End Developer • Digital Designer</i></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Design-Figma-critical?style=flat-square&logo=figma&logoColor=white&color=ff5c5c" />
+  <img src="https://img.shields.io/badge/Tools-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-React-61dafb?style=flat-square&logo=react&logoColor=white" />
+</div>
 
 ---
 
-### About
+### 🧠 About Me
 
-I'm a front-end developer and former designer passionate about creating accessible, scalable, and emotionally resonant digital experiences.  
-My work blends technical precision with visual clarity, driven by an understanding of how design and code shape user behavior and perception.
+Hey, I'm **David**, a developer and designer obsessed with the intersection of code, aesthetics, and human experience.  
+I care deeply about meaningful interactions, clean visuals, and making the web feel more... alive.
 
-With a background in visual storytelling and user interface design, I focus on building interfaces that don't just function — they communicate.
+Currently building ✍️, exploring 💡, and leveling up 🧱.
 
 ---
 
-### Core Skills
+### 🛠️ Core Skills
 
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks**: React (in progress)
-- **Design Tools**: Figma, Illustrator, Photoshop
+- **Languages**: HTML, CSS, JavaScript  
+- **Frameworks**: React *(in progress)*  
+- **Design Tools**: Figma, Illustrator, Photoshop  
 - **Dev Tools**: VS Code, Git, GitHub, Xcode  
-- **Currently exploring**: Swift, Node.js, SQL, Python
+- **Exploring**: Swift, Node.js, SQL, Python
 
 ---
 
-### Current Projects
+### 🚧 Current Projects
 
-- [`concrete`](https://github.com/davidminq/concrete) — personal portfolio site focusing on design systems and front-end structure  
-- [`gresnlab`](https://github.com/davidminq/gresnlab) — creative direction and front-end development for a visionary interior design brand  
-- Prototyping interactions inspired by sound, motion, and minimalist UI principles  
-- Learning React for scalable front-end architecture
-
----
-
-### Contact
-
-- **Email**: dsong90@gmail.com  
-- **Instagram**: @davidminq (https://instagram.com/davidcodes)
+- [`concrete`](https://github.com/davidminq/concrete) — 🎯 my personal portfolio site, designed to scale  
+- [`GRESN LAB`](https://github.com/davidminq/gresnlab) — 🪵 design + front-end dev for an interior design brand  
+- ✨ Prototyping music-inspired UI and motion-driven components  
+- ⚙️ Studying scalable front-end architecture with React
 
 ---
 
-> “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
+### 📬 Get In Touch
+
+- 📧 **Email**: dsong90@gmail.com  
+- 📸 **Instagram**: [@davidcodes](https://instagram.com/davidcodes)
+
+---
+
+> 🧩 “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidminq&style=flat-square&color=lightgrey" alt="GitHub profile views" />
+</p>
