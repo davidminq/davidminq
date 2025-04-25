@@ -31,32 +31,32 @@
 
 <hr>
 
-<h3>🧑🏻‍💻 Core Skills</h3>
-<ul>
-  <li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
-  <li><strong>Frameworks:</strong> React (in progress)</li>
-  <li><strong>Design Tools:</strong> Figma, Illustrator, Photoshop</li>
-  <li><strong>Dev Tools:</strong> VS Code, Git, GitHub, Xcode</li>
-  <li><strong>Currently Exploring:</strong> Swift, Node.js, SQL, Python</li>
-</ul>
+<h3 align="center">🧑🏻‍💻 Core Skills</h3>
+<p align="center">
+  <strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+)<br>
+  <strong>Frameworks:</strong> React (in progress)<br>
+  <strong>Design Tools:</strong> Figma, Illustrator, Photoshop<br>
+  <strong>Dev Tools:</strong> VS Code, Git, GitHub, Xcode<br>
+  <strong>Currently Exploring:</strong> Swift, Node.js, SQL, Python
+</p>
 
 <hr>
 
-<h3>🚧 Projects</h3>
-<ul>
-  <li><strong>concrete</strong> — A portfolio project focused on scalable UI and design systems</li>
-  <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction</li>
-  <li><strong>Prototyping</strong> — Sound-responsive UI and motion-driven web components</li>
-</ul>
+<h3 align="center">🚧 Projects</h3>
+<p align="center">
+  <strong>concrete</strong> — A portfolio project focused on scalable UI and design systems<br>
+  <strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction<br>
+  <strong>Prototyping</strong> — Sound-responsive UI and motion-driven web components
+</p>
 
 <hr>
 
-<h3>✉️ Get in Touch</h3>
-<ul>
-  <li><strong>Email:</strong> dsong90@gmail.com</li>
-  <li><strong>Instagram:</strong> <a href="https://instagram.com/davidminq" target="_blank">@davidminq</a></li>
-</ul>
+<h3 align="center">✉️ Get in Touch</h3>
+<p align="center">
+  📧 <strong>Email:</strong> dsong90@gmail.com<br>
+  📱 <strong>Instagram:</strong> <a href="https://instagram.com/davidminq" target="_blank">@davidminq</a>
+</p>
 
-<blockquote>
+<blockquote align="center">
   “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
 </blockquote>
