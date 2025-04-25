@@ -2,18 +2,23 @@
 <p align="center"><i>Front-End Engineer • Creative Technologist • Digital Designer</i></p>
 
 <div align="center">
- ![JS](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
-![Tools](https://img.shields.io/badge/Tools-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-![Learning](https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black)
-![Learning](https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white)
+  <!-- Skill Badges -->
+  <br/>
+
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+
+  <br/><br/>
+
+  <!-- Learning Badges -->
+  <img src="https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
+
 </div>
-
----
-
 ### 👤 About Me
 
 A **front-end engineering designer** with a background in visual design.  
