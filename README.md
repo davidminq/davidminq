@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+### 👤 About Me
 
 A **front-end developer** with a background in visual design.  
 I specialize in creating digital experiences that feel intuitive, responsive, and visually aligned with brand goals.
@@ -20,7 +20,7 @@ I’m currently deepening my skills in component-based architecture, design syst
 
 ---
 
-### 🛠️ Core Skills
+### 🧑🏻‍💻 Core Skills
 
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)  
 - **Frameworks**: React *(in progress)*  
@@ -38,7 +38,7 @@ I’m currently deepening my skills in component-based architecture, design syst
 
 ---
 
-### 📬 Get in Touch
+### ✉️ Get in Touch
 
 - **Email**: dsong90@gmail.com  
 - **Instagram**: @davidminq (https://instagram.com/davidminq)
@@ -46,7 +46,7 @@ I’m currently deepening my skills in component-based architecture, design syst
 ---
 
 
-> 🧩 “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
+> “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davidminq&style=flat-square&color=lightgrey" alt="GitHub profile views" />
