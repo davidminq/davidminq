@@ -12,7 +12,7 @@
 
 ### 👤 About Me
 
-A **front-end developer** with a background in visual design.  
+A **front-end engineering designer** with a background in visual design.  
 I specialize in creating digital experiences that feel intuitive, responsive, and visually aligned with brand goals.
 
 My strength lies in bridging design and development — turning Figma files into accessible, scalable code.  
