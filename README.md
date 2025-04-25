@@ -17,44 +17,46 @@
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
 
 </div>
-### 👤 About Me
-
-A **front-end engineering designer** with a background in visual design.  
-I specialize in creating digital experiences that feel intuitive, responsive, and visually aligned with brand goals.
-
-My strength lies in bridging design and development — turning Figma files into accessible, scalable code.  
-I’m currently deepening my skills in component-based architecture, design systems, and interactive UI patterns.
-
----
-
-### 🧑🏻‍💻 Core Skills
-
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)  
-- **Frameworks**: React *(in progress)*  
-- **Design Tools**: Figma, Illustrator, Photoshop  
-- **Dev Tools**: VS Code, Git, GitHub, Xcode  
-- **Currently exploring**: Swift, Node.js, SQL, Python
-
----
-
-### 🚧 Current Projects
-
-- [`concrete`](https://github.com/davidminq/concrete) — A portfolio project focused on scalable UI and design systems  
-- [`gresnlab`](https://github.com/davidminq/gresnlab) — Front-end development for an interior design studio with a strong creative direction  
-- Prototyping sound-responsive UI and motion-based web components
-
----
-
-### ✉️ Get in Touch
-
-- **Email**: dsong90@gmail.com  
-- **Instagram**: @davidminq (https://instagram.com/davidminq)
-
----
-
-
-> “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
+<h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidminq&style=flat-square&color=lightgrey" alt="GitHub profile views" />
+  I’m a <strong>Front-End Engineering Designer</strong> with a foundation in visual design.<br>
+  My focus is on building intuitive, responsive, and brand-aligned digital experiences.
 </p>
+
+<p align="center">
+  I bridge the gap between <strong>design</strong> and <strong>development</strong> — translating Figma files into accessible, scalable code.<br>
+  Currently diving deep into <em>component-based architecture</em>, <em>design systems</em>, and <em>interactive UI patterns</em>.
+</p>
+
+<hr>
+
+<h3>🧑🏻‍💻 Core Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
+  <li><strong>Frameworks:</strong> React (in progress)</li>
+  <li><strong>Design Tools:</strong> Figma, Illustrator, Photoshop</li>
+  <li><strong>Dev Tools:</strong> VS Code, Git, GitHub, Xcode</li>
+  <li><strong>Currently Exploring:</strong> Swift, Node.js, SQL, Python</li>
+</ul>
+
+<hr>
+
+<h3>🚧 Projects</h3>
+<ul>
+  <li><strong>concrete</strong> — A portfolio project focused on scalable UI and design systems</li>
+  <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction</li>
+  <li><strong>Prototyping</strong> — Sound-responsive UI and motion-driven web components</li>
+</ul>
+
+<hr>
+
+<h3>✉️ Get in Touch</h3>
+<ul>
+  <li><strong>Email:</strong> dsong90@gmail.com</li>
+  <li><strong>Instagram:</strong> <a href="https://instagram.com/davidminq" target="_blank">@davidminq</a></li>
+</ul>
+
+<blockquote>
+  “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
+</blockquote>
