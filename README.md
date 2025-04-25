@@ -12,14 +12,13 @@
   <img src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
 
   <br/><br/>
-
   <!-- Learning Badges -->
   <img src="https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
 
 </div>
-### 👤 About Me
+👤 About Me
 
 A **front-end engineering designer** with a background in visual design.  
 I specialize in creating digital experiences that feel intuitive, responsive, and visually aligned with brand goals.
