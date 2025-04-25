@@ -1,5 +1,5 @@
 <h1 align="center">🧑🏻‍💻@davidminq</h1>
-<p align="center"><i>Creative Technologist • Front-End Developer • Digital Designer</i></p>
+<p align="center"><i>Creative Technologist • Front-End Engineer • Digital Designer</i></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
