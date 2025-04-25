@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
 
 </div>
-👤 About Me
+### 👤 About Me
 
 A **front-end engineering designer** with a background in visual design.  
 I specialize in creating digital experiences that feel intuitive, responsive, and visually aligned with brand goals.
