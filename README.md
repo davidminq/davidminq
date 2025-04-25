@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- Learning Badges -->
   <img src="https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black"/>
