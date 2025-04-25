@@ -61,5 +61,5 @@
 </ul>
 
 <blockquote align="center">
-  “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
+“Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
 </blockquote>
