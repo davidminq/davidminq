@@ -10,11 +10,14 @@
   <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-  <br/>
+
+  <br/><br/>
+
   <!-- Learning Badges -->
   <img src="https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Swift-FA7343?logo=swift&logoColor=white"/>
 
 </div>
 <h2 align="center">👤 About Me</h2>
