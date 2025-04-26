@@ -61,7 +61,3 @@
   <li><strong>Email:</strong> dsong90@gmail.com</li>
   <li><strong>Instagram:</strong> <a href="https://instagram.com/davidminq" target="_blank">@davidminq</a></li>
 </ul>
-
-<blockquote>
-“Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
-</blockquote>
