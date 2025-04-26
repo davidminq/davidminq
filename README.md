@@ -46,7 +46,7 @@
 
 <hr>
 
-<h3>🚧 Projects</h3>
+<h3>💻 Projects</h3>
 
 <ul>
   <li><strong>concrete</strong> — A portfolio project focused on scalable UI and design systems</li>
@@ -55,7 +55,7 @@
 
 <hr>
 
-<h3>✉️ Get in Touch</h3>
+<h3>📧 Get in Touch</h3>
 
 <ul>
   <li><strong>Email:</strong> dsong90@gmail.com</li>
