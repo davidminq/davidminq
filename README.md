@@ -62,6 +62,6 @@
   <li><strong>Instagram:</strong> <a href="https://instagram.com/davidminq" target="_blank">@davidminq</a></li>
 </ul>
 
-<blockquote align="center">
+<blockquote>
 “Design isn’t just how it looks or feels. It’s how it works — and why it resonates.”
 </blockquote>
