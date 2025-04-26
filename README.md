@@ -34,7 +34,7 @@
 
 <hr>
 
-<h3 align="center">🧑🏻‍💻 Core Skills</h3>
+<h3>🧑🏻‍💻 Core Skills</h3>
 
 <ul>
   <li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
@@ -46,7 +46,7 @@
 
 <hr>
 
-<h3 align="center">🚧 Projects</h3>
+<h3>🚧 Projects</h3>
 
 <ul>
   <li><strong>concrete</strong> — A portfolio project focused on scalable UI and design systems</li>
@@ -55,7 +55,7 @@
 
 <hr>
 
-<h3 align="center">✉️ Get in Touch</h3>
+<h3>✉️ Get in Touch</h3>
 
 <ul>
   <li><strong>Email:</strong> dsong90@gmail.com</li>
