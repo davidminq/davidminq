@@ -19,6 +19,17 @@
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Swift-FA7343?logo=swift&logoColor=white"/>
 
+
+<div style="height: 4px; width: 100%; display: flex;">
+  <div style="flex: 1; background-color: #e6194b;"></div>
+  <div style="flex: 1; background-color: #3cb44b;"></div>
+  <div style="flex: 1; background-color: #ffe119;"></div>
+  <div style="flex: 1; background-color: #4363d8;"></div>
+  <div style="flex: 1; background-color: #f58231;"></div>
+  <div style="flex: 1; background-color: #911eb4;"></div>
+  <div style="flex: 1; background-color: #46f0f0;"></div>
+</div>
+
 </div>
 <h2 align="center">👤 About Me</h2>
 
