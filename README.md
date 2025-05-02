@@ -63,11 +63,3 @@
   <li><strong>concrete</strong> — A portfolio project focused on scalable UI and design systems</li>
   <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction</li>
 </ul>
-
-<hr>
-
-<h3>📧 Get in Touch</h3>
-
-<ul>
-  <li><strong>Instagram:</strong> <a href="https://instagram.com/davidminq" target="_blank">@davidminq</a></li>
-</ul>
