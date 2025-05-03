@@ -60,6 +60,6 @@
 <h3>💻 Projects</h3>
 
 <ul>
-  <li><strong>concrete</strong> — A portfolio project focused on scalable UI and design systems</li>
+  <li><strong>324</strong> — A portfolio project focused on scalable UI and design systems</li>
   <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction</li>
 </ul>
