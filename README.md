@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏻‍💻@davidminq</h1>
+<h1 align="center">🧑🏻‍💻</h1>
 <p align="center"><i>Front-End Engineer • Creative Technologist • Digital Designer</i></p>
 
 <div align="center">
