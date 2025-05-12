@@ -60,6 +60,6 @@
 <h3>💻 Projects</h3>
 
 <ul>
-  <li><strong>foulette</strong> — First app project</li>
+  <li><strong>foolette</strong> — First app project</li>
   <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction</li>
 </ul>
