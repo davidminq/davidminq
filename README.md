@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-Swift-FA7343?logo=swift&logoColor=white"/>
 
 
 <div style="height: 4px; width: 100%; display: flex;">
