@@ -51,7 +51,7 @@
   <li><strong>Frameworks:</strong> React (in progress)</li>
   <li><strong>Design Tools:</strong> Figma, Illustrator, Photoshop</li>
   <li><strong>Dev Tools:</strong> VS Code, GitHub </li>
-  <li><strong>Currently Exploring:</strong> Swift, Node.js, SQL, Python</li>
+  <li><strong>Currently Exploring:</strong> Node.js, SQL, Python</li>
 </ul>
 
 <hr>
@@ -59,6 +59,6 @@
 <h3>💻 Projects</h3>
 
 <ul>
-  <li><strong>foolette</strong> — First app project</li>
-  <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction</li>
+  <li><strong>foolette</strong> — Very First app project to learn and practice Java Script.</li>
+  <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction.</li>
 </ul>
