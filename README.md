@@ -70,6 +70,6 @@
 <h3>💻 Projects</h3>
 
 <ul>
-  <li><strong>foolette</strong> — A whimsical roulette app made to help the indecisive (like me) choose what to eat. Built from scratch to learn JavaScript fundamentals, canvas APIs, and front-end architecture.</li>
+  <li><strong>foolette</strong> — A whimsical roulette app made to help the indecisive (like me) choose what to eat. </li>
   <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction.</li>
 </ul>
