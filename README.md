@@ -42,6 +42,17 @@
   Currently diving deep into <em>component-based architecture</em>, <em>design systems</em>, and <em>interactive UI patterns</em>.
 </p>
 
+<p align="center">
+  저는 <strong>시각 디자인 기반의 프론트엔드 엔지니어링 디자이너</strong>입니다.<br>
+  직관적이고 반응형이며 브랜드 정체성에 부합하는 디지털 경험을 만드는 데 집중하고 있습니다.
+</p>
+
+<p align="center">
+  <strong>디자인</strong>과 <strong>개발</strong> 사이의 간극을 메우며,<br>
+  Figma 결과물을 접근 가능하고 확장 가능한 코드로 구현합니다.<br>
+  현재는 <em>컴포넌트 기반 아키텍처</em>, <em>디자인 시스템</em>, <em>인터랙티브 UI 패턴</em>에 몰두하고 있습니다.
+</p>
+
 <hr>
 
 <h3>🧑🏻‍💻 Core Skills</h3>
