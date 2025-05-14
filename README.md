@@ -50,7 +50,7 @@
   <li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
   <li><strong>Frameworks:</strong> React (in progress)</li>
   <li><strong>Design Tools:</strong> Figma, Illustrator, Photoshop</li>
-  <li><strong>Dev Tools:</strong> VS Code, Git, GitHub, Xcode</li>
+  <li><strong>Dev Tools:</strong> VS Code, GitHub </li>
   <li><strong>Currently Exploring:</strong> Swift, Node.js, SQL, Python</li>
 </ul>
 
