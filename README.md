@@ -72,4 +72,5 @@
 <ul>
   <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction.</li>
   <li><strong>foolette</strong> — A whimsical roulette app made to help the indecisive (like me) choose what to eat. </li>
+  <li><strong>ibuddy</strong> — 실시간 채팅 </li>
 </ul>
