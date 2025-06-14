@@ -71,7 +71,7 @@
 
 <ul>
   <li><strong>gresnlab</strong> — Front-end development for an interior design studio with a strong creative direction.</li>
-  <li><strong>irou</strong> — A whimsical roulette app made to help the indecisive (like me) choose what to eat. </li>
+  <li><strong>irou</strong> — ᴀ ғᴏᴏᴅ ʀᴏᴜʟᴇᴛᴛᴇ ᴡᴇʙ ᴀᴘᴘ ғᴏʀ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ sᴘᴇɴᴅ ᴍᴏʀᴇ ᴛɪᴍᴇ ᴅᴇᴄɪᴅɪɴɢ ᴡʜᴀᴛ ᴛᴏ ᴇᴀᴛ ᴛʜᴀɴ ᴀᴄᴛᴜᴀʟʟʏ ᴇᴀᴛɪɴɢ. </li>
   <li><strong>ibuddy</strong> — ᴀ ᴡᴇʙ ᴀᴘᴘ ᴛʜᴀᴛ ʟᴇᴛs ʏᴏᴜ ᴄʜᴀᴛ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ᴡɪᴛʜɪɴ ᴀ 𝟷ᴋᴍ ʀᴀᴅɪᴜs. </li>
   <li><strong>sat-ai-sfy</strong> — ᴀɴ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴛᴏᴏʟ ᴛʜᴀᴛ ᴄʀᴀᴡʟs ɴᴇᴡs ᴀʀᴛɪᴄʟᴇs ᴀɴᴅ sᴇɴᴅs ʀᴇᴀʟ-ᴛɪᴍᴇ sᴜᴍᴍᴀʀɪᴇs ᴠɪᴀ ᴍᴇssᴀɢɪɴɢ ᴀᴘᴘs. </li>
 </ul>
