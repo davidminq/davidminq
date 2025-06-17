@@ -30,29 +30,28 @@
 </div>
 
 </div>
-<h2 align="center">👤 About Me</h2>
+<h2 align="center">🤖 About Me</h2>
 
 <p align="center">
-  I’m a <strong>Front-End Engineering Designer</strong> with a foundation in visual design.<br>
-  My focus is on building intuitive, responsive, and brand-aligned digital experiences.
+  I’m an aspiring <strong>AI Software Engineer</strong> currently focused on building intelligent and safe generative AI systems.<br>
+  With a background in front-end design and creative development, I bring a unique perspective to machine learning.
 </p>
 
 <p align="center">
-  I bridge the gap between <strong>design</strong> and <strong>development</strong> — translating Figma files into accessible, scalable code.<br>
-  Currently diving deep into <em>component-based architecture</em>, <em>design systems</em>, and <em>interactive UI patterns</em>.
+  I’m currently exploring <strong>Python</strong>, <strong>machine learning</strong>, and <strong>LLM safety engineering</strong>.<br>
+  My goal is to bridge the gap between <em>human-centric design</em> and <em>responsible AI development</em>.
 </p>
 
 <p align="center">
-  저는 <strong>시각 디자인 기반의 프론트엔드 엔지니어링 디자이너</strong>입니다.<br>
-  직관적이고 반응형이며 브랜드 정체성에 부합하는 디지털 경험을 만드는 데 집중하고 있습니다.
+  저는 <strong>AI 소프트웨어 엔지니어</strong>를 목표로 공부 중이며,<br>
+  생성형 AI의 <strong>안전성 평가</strong>와 <strong>실전 모델 구축</strong>에 관심이 많습니다.
 </p>
 
 <p align="center">
-  <strong>디자인</strong>과 <strong>개발</strong> 사이의 간극을 메우며,<br>
-  Figma 결과물을 접근 가능하고 확장 가능한 코드로 구현합니다.<br>
-  현재는 <em>컴포넌트 기반 아키텍처</em>, <em>디자인 시스템</em>, <em>인터랙티브 UI 패턴</em>에 몰두하고 있습니다.
+  디자인과 개발의 경험을 바탕으로,<br>
+  사용자 친화적이며 윤리적인 AI 시스템을 만들고자 합니다.<br>
+  현재는 <em>Python 기반 머신러닝</em>, <em>딥러닝 프레임워크</em>, <em>LLM Red Team 프로젝트</em>를 진행하고 있습니다.
 </p>
-
 <hr>
 
 <h3>🧑🏻‍💻 Core Skills</h3>
