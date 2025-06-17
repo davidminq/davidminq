@@ -54,14 +54,14 @@
 </p>
 <hr>
 
-<h3>🧑🏻‍💻 Core Skills</h3>
+<h3>🧠 Core Skills</h3>
 
 <ul>
-  <li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
-  <li><strong>Frameworks:</strong> React (in progress)</li>
-  <li><strong>Design Tools:</strong> Figma, Illustrator, Photoshop</li>
-  <li><strong>Dev Tools:</strong> VS Code, GitHub </li>
-  <li><strong>Currently Exploring:</strong> Node.js, SQL, Python</li>
+  <li><strong>Languages:</strong> Python, JavaScript (ES6+), HTML5, CSS3</li>
+  <li><strong>AI & ML Tools:</strong> NumPy, Pandas, scikit-learn, OpenAI API (ChatGPT)</li>
+  <li><strong>Currently Learning:</strong> TensorFlow, PyTorch, Flask, Streamlit</li>
+  <li><strong>Design Background:</strong> Figma, Illustrator, Photoshop</li>
+  <li><strong>Dev Tools:</strong> VS Code, Git/GitHub, Jupyter Notebook</li>
 </ul>
 
 <hr>
