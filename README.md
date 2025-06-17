@@ -1,33 +1,44 @@
-<h1 align="center">🧑🏻‍💻</h1>
-<p align="center"><i>Front-End Engineer • Creative Technologist • Digital Designer</i></p>
+<h1 align="center">🤖</h1>
+<p align="center"><i>AI Software Engineer in Progress • Creative Technologist • Former Front-End Designer</i></p>
 
 <div align="center">
 
-  <!-- Skill Badges -->
+  <!-- Core Skills -->
+  <br/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Library-pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tool-Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tool-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  
   <br/>
 
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <!-- Currently Learning -->
+  <img src="https://img.shields.io/badge/Learning-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-OpenAI-412991?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
 
   <br/>
 
-  <!-- Learning Badges -->
-  <img src="https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <!-- Background -->
+  <img src="https://img.shields.io/badge/Background-HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Background-CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Background-JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white"/>
 
+  <br/><br/>
 
-<div style="height: 4px; width: 100%; display: flex;">
-  <div style="flex: 1; background-color: #e6194b;"></div>
-  <div style="flex: 1; background-color: #3cb44b;"></div>
-  <div style="flex: 1; background-color: #ffe119;"></div>
-  <div style="flex: 1; background-color: #4363d8;"></div>
-  <div style="flex: 1; background-color: #f58231;"></div>
-  <div style="flex: 1; background-color: #911eb4;"></div>
-  <div style="flex: 1; background-color: #46f0f0;"></div>
-</div>
+  <!-- Rainbow Divider -->
+  <div style="height: 4px; width: 100%; display: flex;">
+    <div style="flex: 1; background-color: #e6194b;"></div>
+    <div style="flex: 1; background-color: #3cb44b;"></div>
+    <div style="flex: 1; background-color: #ffe119;"></div>
+    <div style="flex: 1; background-color: #4363d8;"></div>
+    <div style="flex: 1; background-color: #f58231;"></div>
+    <div style="flex: 1; background-color: #911eb4;"></div>
+    <div style="flex: 1; background-color: #46f0f0;"></div>
+  </div>
 
 </div>
 <h2 align="center">🤖 About Me</h2>
