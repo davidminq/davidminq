@@ -1,4 +1,4 @@
-<h1 align="center">🤖</h1>
+<h1 align="center"></h1>
 <p align="center"><i>AI Software Engineer in Progress • Creative Technologist • Front-End Developer</i></p>
 
 <div align="center">
@@ -41,7 +41,7 @@
   </div>
 
 </div>
-<h2 align="center">🤖 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   I’m an aspiring <strong>AI Software Engineer</strong> currently focused on building intelligent and safe generative AI systems.<br>
@@ -65,7 +65,7 @@
 </p>
 <hr>
 
-<h3>🧠 Core Skills</h3>
+<h3>Core Skills</h3>
 
 <ul>
   <li><strong>Languages:</strong> Python, JavaScript (ES6+), HTML5, CSS3</li>
@@ -77,7 +77,7 @@
 
 <hr>
 
-<h3>💻 Projects</h3>
+<h3>Projects</h3>
 
 <ul>
   <li><strong>gresnlab</strong> — ғʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ғᴏʀ ᴀɴ ɪɴᴛᴇʀɪᴏʀ ᴅᴇsɪɢɴ sᴛᴜᴅɪᴏ ᴡɪᴛʜ ᴀ sᴛʀᴏɴɢ ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛɪᴏɴ..</li>
