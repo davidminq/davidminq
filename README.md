@@ -68,11 +68,11 @@
 <h3>Core Skills</h3>
 
 <ul>
-  <li><strong>Languages:</strong> Python, JavaScript (ES6+), HTML5, CSS3</li>
-  <li><strong>AI & ML Tools:</strong> NumPy, Pandas, scikit-learn, OpenAI API (ChatGPT)</li>
+  <li><strong>Languages:</strong> Python, JavaScript (ES6+), HTML5, CSS3, React, TypeScript, Tailwind CSS</li>
+  <li><strong>AI & ML Tools:</strong> NumPy, Pandas, TensorFlow, scikit-learn, OpenAI API (ChatGPT)</li>
   <li><strong>Currently Learning:</strong> TensorFlow, PyTorch, Flask, Streamlit</li>
-  <li><strong>Design Background:</strong> Figma, Illustrator, Photoshop</li>
-  <li><strong>Dev Tools:</strong> VS Code, Git/GitHub, Jupyter Notebook</li>
+  <li><strong>Design Background:</strong> Figma, Illustrator, Photoshop, Lightroom</li>
+  <li><strong>Dev Tools:</strong> Git/GitHub, VS Code, Xcode, Notion</li>
 </ul>
 
 <hr>
@@ -84,5 +84,5 @@
   <li><strong>rouroulala</strong> — A food roulette web app for people who spen more time deciding what to eat than actually eating. </li>
   <li><strong>chitchat aka ibuddy</strong> — A web app that lets you chat with anyone within a 1km radius.</li>
   <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
-  <li><strong>seer</strong> — An app that predicts when your life ends. </li>
+  <li><strong>seer</strong> — An app that predicts when your life ends by WHO and CDC data + Machine Learning + TensorFlow. </li>
 </ul>
