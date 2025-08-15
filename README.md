@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<p align="center"><i>AI Software Engineer in Progress • Creative Technologist • Front-End Developer</i></p>
+<p align="center"><i>Full Stack Engineer</i></p>
 
 <div align="center">
 
