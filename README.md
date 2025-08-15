@@ -80,8 +80,9 @@
 <h3>Projects</h3>
 
 <ul>
-  <li><strong>gresnlab</strong> — ғʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ғᴏʀ ᴀɴ ɪɴᴛᴇʀɪᴏʀ ᴅᴇsɪɢɴ sᴛᴜᴅɪᴏ ᴡɪᴛʜ ᴀ sᴛʀᴏɴɢ ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛɪᴏɴ..</li>
-  <li><strong>irou</strong> — ᴀ ғᴏᴏᴅ ʀᴏᴜʟᴇᴛᴛᴇ ᴡᴇʙ ᴀᴘᴘ ғᴏʀ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ sᴘᴇɴᴅ ᴍᴏʀᴇ ᴛɪᴍᴇ ᴅᴇᴄɪᴅɪɴɢ ᴡʜᴀᴛ ᴛᴏ ᴇᴀᴛ ᴛʜᴀɴ ᴀᴄᴛᴜᴀʟʟʏ ᴇᴀᴛɪɴɢ. </li>
-  <li><strong>ibuddy</strong> — ᴀ ᴡᴇʙ ᴀᴘᴘ ᴛʜᴀᴛ ʟᴇᴛs ʏᴏᴜ ᴄʜᴀᴛ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ᴡɪᴛʜɪɴ ᴀ 𝟷ᴋᴍ ʀᴀᴅɪᴜs. </li>
-  <li><strong>sat-ai-sfy</strong> — ᴀɴ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴛᴏᴏʟ ᴛʜᴀᴛ ᴄʀᴀᴡʟs ɴᴇᴡs ᴀʀᴛɪᴄʟᴇs ᴀɴᴅ sᴇɴᴅs ʀᴇᴀʟ-ᴛɪᴍᴇ sᴜᴍᴍᴀʀɪᴇs ᴠɪᴀ ᴍᴇssᴀɢɪɴɢ ᴀᴘᴘs. </li>
+  <li><strong>gresnlab</strong> — A interior design website for Gresn Lab. </li>
+  <li><strong>rouroulala</strong> — A food roulette web app for people who spen more time deciding what to eat than actually eating. </li>
+  <li><strong>ibuddy(ChitChat)</strong> — A web app that lets you chat with anyone within a 1km radius.</li>
+  <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
+  <li><strong>seer</strong> — An app that predicts when your life ends. </li>
 </ul>
