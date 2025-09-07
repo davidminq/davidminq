@@ -21,33 +21,6 @@
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=4285F4)
 </div>
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  I’m an aspiring <strong>AI Software Engineer</strong> currently focused on building intelligent and safe generative AI systems.<br>
-  With a background in front-end design and creative development, I bring a unique perspective to machine learning.
-</p>
-
-<p align="center">
-  I’m currently exploring <strong>Python</strong>, <strong>machine learning</strong>, and <strong>LLM safety engineering</strong>.<br>
-  My goal is to bridge the gap between <em>human-centric design</em> and <em>responsible AI development</em>.
-</p>
-
-<hr>
-
-<h3>Core Skills</h3>
-
-<ul>
-  <li><strong>Languages:</strong> Python, JavaScript (ES6+), HTML5, CSS3, React, TypeScript, Tailwind CSS</li>
-  <li><strong>AI & ML Tools:</strong> NumPy, Pandas, TensorFlow, scikit-learn, OpenAI API (ChatGPT)</li>
-  <li><strong>Currently Learning:</strong> TensorFlow, PyTorch, Flask, Streamlit</li>
-  <li><strong>Design Background:</strong> Figma, Illustrator, Photoshop, Lightroom</li>
-  <li><strong>Dev Tools:</strong> Git/GitHub, VS Code, Xcode, Notion</li>
-</ul>
-
-<hr>
-
-<h3>Projects</h3>
 
 <ul>
   <li><strong>gresnlab</strong> — A interior design website for Gresn Lab. </li>
