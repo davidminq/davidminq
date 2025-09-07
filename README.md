@@ -1,7 +1,5 @@
 ![David Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 <h1 align="center"></h1>
-<p align="center">
-<i>Full Stack Engineer</i></p>
 
 ###
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
