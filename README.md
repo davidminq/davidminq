@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 <p align="center"><i>Full Stack Engineer</i></p>
 
-### 🛠 Core
+### Programming Language
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
@@ -11,13 +11,13 @@
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 
-### ⚙️ Tools
+### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-### 🤖 AI
+### A.I.
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=74AA9C)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=4285F4)
