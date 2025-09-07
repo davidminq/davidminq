@@ -54,16 +54,6 @@
   My goal is to bridge the gap between <em>human-centric design</em> and <em>responsible AI development</em>.
 </p>
 
-<p align="center">
-  저는 <strong>AI 소프트웨어 엔지니어</strong>를 목표로 공부 중이며,<br>
-  생성형 AI의 <strong>안전성 평가</strong>와 <strong>실전 모델 구축</strong>에 관심이 많습니다.
-</p>
-
-<p align="center">
-  디자인과 개발의 경험을 바탕으로,<br>
-  사용자 친화적이며 윤리적인 AI 시스템을 만들고자 합니다.<br>
-  현재는 <em>Python 기반 머신러닝</em>, <em>딥러닝 프레임워크</em>, <em>LLM Red Team 프로젝트</em>를 진행하고 있습니다.
-</p>
 <hr>
 
 <h3>Core Skills</h3>
