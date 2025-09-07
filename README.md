@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=David%20Song&textBg=false&reversal=false)
+![header][(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=David%20Song&textBg=false&reversal=false)](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 
 <h1 align="center"></h1>
 <p align="center"><i>Full Stack Engineer</i></p>
