@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 
 ###
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
