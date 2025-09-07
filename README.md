@@ -2,44 +2,25 @@
 <h1 align="center"></h1>
 <p align="center"><i>Full Stack Engineer</i></p>
 
-<div align="center">
+### 🛠 Core
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 
-  <!-- Core Skills -->
-  <br/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Library-pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tool-Jupyter-F37626?logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tool-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-  
-  <br/>
+### ⚙️ Tools
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-  <!-- Currently Learning -->
-  <img src="https://img.shields.io/badge/Learning-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-OpenAI-412991?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
-
-  <br/>
-
-  <!-- Background -->
-  <img src="https://img.shields.io/badge/Background-HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Background-CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Background-JavaScript-yellow?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white"/>
-
-  <br/><br/>
-
-  <!-- Rainbow Divider -->
-  <div style="height: 4px; width: 100%; display: flex;">
-    <div style="flex: 1; background-color: #e6194b;"></div>
-    <div style="flex: 1; background-color: #3cb44b;"></div>
-    <div style="flex: 1; background-color: #ffe119;"></div>
-    <div style="flex: 1; background-color: #4363d8;"></div>
-    <div style="flex: 1; background-color: #f58231;"></div>
-    <div style="flex: 1; background-color: #911eb4;"></div>
-    <div style="flex: 1; background-color: #46f0f0;"></div>
-  </div>
+### 🤖 AI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=74AA9C)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=4285F4)
 
 </div>
 <h2 align="center">About Me</h2>
