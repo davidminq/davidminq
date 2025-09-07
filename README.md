@@ -23,7 +23,7 @@
 </div>
 
 <ul>
-  <li><strong>gresnlab</strong> — A interior design website for Gresn Lab. </li>
+  <li><strong>gresnlab</strong> — A interior design website for GRESN Lab. </li>
   <li><strong>rouroulala</strong> — A food roulette web app for people who spen more time deciding what to eat than actually eating. </li>
   <li><strong>chitchat aka ibuddy</strong> — A web app that lets you chat with anyone within a 1km radius.</li>
   <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
