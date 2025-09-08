@@ -23,7 +23,7 @@
 <ul>
   <li><strong>gresnlab</strong> — A interior design website for GRESN Lab. </li>
   <li><strong>roulette</strong> — An app that helps you spend less time deciding and more time eating.</li>
-  <li><strong>ibuddy</strong> — A web app that lets you chat with anyone within a 1km radius.</li>
+  <li><strong>ibuddy</strong> — A web app that lets you chat with anyone within a 1km radius anonymously.</li>
   <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
   <li><strong>seer</strong> — An app that predicts when your life ends by WHO and CDC data + Machine Learning + TensorFlow. </li>
 </ul>
