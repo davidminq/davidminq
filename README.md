@@ -26,4 +26,5 @@
   <li><strong>ibuddy</strong> — A web app that lets you chat with anyone within a 1km radius anonymously.</li>
   <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
   <li><strong>seer</strong> — An app that predicts when your life ends by WHO and CDC data + Machine Learning + TensorFlow. </li>
+  <li><strong>supreme-monitor</strong> — A Python-based tool that monitors Supreme.com product drops and restocks, sending automated real-time alerts via Telegram and storing product data in SQLite.</li>
 </ul>
