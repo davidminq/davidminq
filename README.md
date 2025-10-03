@@ -10,7 +10,7 @@
 ![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=F05138)
 
 ###
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=147EFB)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
