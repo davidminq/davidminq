@@ -26,13 +26,3 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=00A67E)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 </div>
-
-<ul>
-  <li><strong>gresnlab</strong> — A interior design website for GRESN Lab. </li>
-  <li><strong>roulette</strong> — An app that helps you spend less time deciding and more time eating.</li>
-  <li><strong>ibuddy</strong> — A web app that lets you chat with anyone within a 1km radius anonymously.</li>
-  <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
-  <li><strong>seer</strong> — An app that predicts when your life ends by WHO and CDC data + Machine Learning + TensorFlow. </li>
-  <li><strong>supreme-monitor</strong> — A tool that tracks Supreme drops and restocks with Telegram alerts.</li>
-  <li><strong>talk</strong> — An app that most people need these days.</li>
-</ul>
