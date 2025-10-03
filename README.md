@@ -27,4 +27,5 @@
   <li><strong>satispy</strong> — An automated tool that crawls news articles and sends real-time summaries via telegram. </li>
   <li><strong>seer</strong> — An app that predicts when your life ends by WHO and CDC data + Machine Learning + TensorFlow. </li>
   <li><strong>supreme-monitor</strong> — A tool that tracks Supreme drops and restocks with Telegram alerts.</li>
+  <li><strong>Talk</strong> — An app that most people need these days.</li>
 </ul>
