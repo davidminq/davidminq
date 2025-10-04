@@ -4,7 +4,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6&t=1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=F05138)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -12,6 +11,7 @@
 ###
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20)
 
 ###
