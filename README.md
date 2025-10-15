@@ -1,7 +1,6 @@
 ![David Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 ###
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=00A67E)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -28,6 +27,7 @@
 
 ###
 ![Notion API](https://img.shields.io/badge/Notion%20API-000000?style=flat&logo=notion&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat&logo=telegram&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-000000?style=flat&logo=googlemaps&logoColor=white)
 </div>
