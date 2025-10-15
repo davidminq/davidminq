@@ -30,4 +30,5 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat&logo=telegram&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-000000?style=flat&logo=googlemaps&logoColor=white)
+![Stripe API](https://img.shields.io/badge/Stripe%20API-000000?style=flat&logo=stripe&logoColor=white)
 </div>
