@@ -12,6 +12,7 @@
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ###
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
