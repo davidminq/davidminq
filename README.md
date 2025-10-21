@@ -30,5 +30,4 @@
 ![Notion API](https://img.shields.io/badge/Notion%20API-000000?style=flat&logo=notion&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-000000?style=flat&logo=telegram&logoColor=white)
-![Stripe API](https://img.shields.io/badge/Stripe%20API-000000?style=flat&logo=stripe&logoColor=white)
 </div>
