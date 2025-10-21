@@ -1,7 +1,7 @@
 ![David Song header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=David%20Song&fontAlignY=33&fontSize=50&fontAlign=30)
 ###
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/Adobe%20CC-Active-EA1F24?style=flat&logo=adobecreativecloud&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-111827?style=flat&logo=adobecreativecloud&logoColor=EA1F24&labelColor=111827)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat&logo=openai&logoColor=white)
